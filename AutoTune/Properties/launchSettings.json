@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AutoTune": {
+      "commandName": "Project",
+      "commandLineArgs": "--dir C:\\Users\\Robin\\Source\\Repos\\AutoTune\\AutoTune\\bin\\Work --ns-host https://nightscout.welp.dev/"
+    }
+  }
+}
